@@ -8,7 +8,10 @@ I've been developing back-end and front-end skills in Java and JavaScript for 2 
 
 In Portuguese now:
 
-Atualmente estudo JAVA full-stack presencial. <br>
+Atualmente, estou no BootCamp Santander junto com toda a Equipe da DIO! 👏👏👏👏👏🤩 <br>
+Fiquei muito feliz por ter sido selecionado e estou aprendendo muito com cada módulo aqui, com o método de ensino, com os Professores.. Toda a Equipe estão de Parabéns! 🤝 <br>
+
+Eu estudo também, JAVA full-stack presencial. <br>
 Desenvolvi um Projeto back-end, com Spring boot, de uma Biblioteca: <br>
   Estruturado em modelagem MVC, com 2 Classes interligadas: Categoria e Livro, que respondem quando é solicitado as requisições. <br>
   O código possui classes DTO's, para manipulação do front. Está com o CRUD configurado, com tratamento de excessões, com       @Validations e @Anotations. Todo o Projeto foi testado com o Postman, e confirmado no Banco de Dados através do H2Console e MySQL.
