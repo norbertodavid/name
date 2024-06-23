@@ -9,7 +9,7 @@ I've been developing back-end and front-end skills in Java and JavaScript for 2 
 In Portuguese now:
 
 Atualmente, estou no BootCamp Santander junto com toda a Equipe da DIO! 👏👏👏👏👏🤩 <br>
-Fiquei muito feliz por ter sido selecionado e estou aprendendo muito com cada módulo aqui, com o método de ensino, com os Professores.. Toda a Equipe estão de Parabéns! 🤝 <br>
+Fiquei muito feliz por ter sido selecionado e estou aprendendo muito com cada módulo aqui, com o método de ensino, com os Professores.. Toda a equipe estão de Parabéns! 🤝 <br>
 
 Eu estudo também, JAVA full-stack presencial. <br>
 Desenvolvi um Projeto back-end, com Spring boot, de uma Biblioteca: <br>
